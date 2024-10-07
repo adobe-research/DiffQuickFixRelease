@@ -2,8 +2,6 @@
 
 This Jupyter notebook implements the DiffQuickFix algorithm (ICLR '24 - https://arxiv.org/abs/2310.13730) which edits the text-encoder in Diffusion models to remove copyrighted concepts. 
 
-<img width="990" alt="Screenshot 2024-10-01 at 12 03 24 PM" src="https://git.corp.adobe.com/storage/user/57244/files/755ca9cc-9963-4985-b921-56056aab068d">
-
 
 ### Introduction 
 
